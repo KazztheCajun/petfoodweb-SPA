@@ -1,0 +1,36 @@
+.main-body
+{
+    background-color: darkslategray;
+    color: bisque;
+}
+
+.pet-list
+{
+    margin: 5px;
+    overflow: visible;
+}
+
+.pet-details
+{
+    margin: 5px;
+    display: none;
+}
+
+.modal-content
+{
+    background-color: darkslategray;
+}
+
+.pet-image-box
+{
+    width: 200px;
+    height: 200px;
+}
+
+.selected-pet-event-list
+{
+    height: 400px;
+    background-color: bisque;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
